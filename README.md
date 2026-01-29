@@ -21,7 +21,6 @@ A simple proof-of-concept dApp that stores patient medical records on IPFS and m
 - [Environment & Secrets](#environment--secrets)
 - [CI / GitHub Actions](#ci--github-actions)
 - [Contributing](#contributing)
-- [License](#license)
 
 ---
 
@@ -158,8 +157,5 @@ A CI workflow runs Truffle tests and a Python lint job on pushes and PRs to `mai
 ## Contributing
 See `CONTRIBUTING.md` for guidelines. Create small, focused PRs and include tests for non-trivial changes.
 
----
 
-## License
-MIT — see `LICENSE` for details.
 
