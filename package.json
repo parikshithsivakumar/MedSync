@@ -1,0 +1,20 @@
+{
+  "name": "medsync-project",
+  "version": "1.0.0",
+  "description": "",
+  "main": "truffle-config.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "truffle test",
+    "test:contracts": "truffle test",
+    "lint": "echo \"No linter configured\""
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "truffle": "^5.11.5"
+  }
+}

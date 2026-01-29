@@ -1,0 +1,43 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+env/
+venv/
+.env
+.env.*
+*.env
+.Python
+
+# Build artifacts
+build/
+dist/
+*.egg-info/
+
+# Node
+node_modules/
+npm-debug.log
+package-lock.json
+
+# Truffle / artifacts
+build/
+build/contracts/
+
+# Editor / OS
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# Temporary files
+*.swp
+*.swo
+temp.docx
+temp_lab.docx
+
+# Secrets
+.env
+
+# Test output
+.pytest_cache/

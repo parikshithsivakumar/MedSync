@@ -1,0 +1,7 @@
+gradio
+web3
+requests
+python-docx
+black
+flake8
+pre-commit
